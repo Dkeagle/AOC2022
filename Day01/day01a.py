@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 total = 0
+biggest = 0
 
-with open('input.txt', 'r') as file:
+with open('input.txt') as file:
     for line in file:
-        if line == "\n" or not line:
-            print(total)
+        if line == "\n":
+            if total > biggest:
+                biggest = total
             total = 0
-            continue
-        total += int(line)
+        else:
+            total += int(line)
+    print(biggest)
