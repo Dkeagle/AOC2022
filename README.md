@@ -7,7 +7,7 @@ Each day will be listed with the challenge link and my own solution for it.
 > Warning: Two challenges are made available each day, they'll be stored as file A and B and the day's directory
 
 - Day 01 - [Calorie Counting](https://adventofcode.com/2022/day/1) - [Python](Day01/)
-- Day 02 - [](https://adventofcode.com/2022/day/2) - [](Day02/)
+- Day 02 - [Rock Paper Scissors](https://adventofcode.com/2022/day/2) - [PHP](Day02/)
 - Day 03 - [](https://adventofcode.com/2022/day/3) - [](Day03/)
 - Day 04 - [](https://adventofcode.com/2022/day/4) - [](Day04/)
 - Day 05 - [](https://adventofcode.com/2022/day/5) - [](Day05/)
