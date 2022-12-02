@@ -9,37 +9,16 @@
         $line = trim(fgets($file));
         if($line == ""){ continue; }
         $exploded = explode(" ", $line);
-        switch ($exploded[1]) {
-            case 'X':
-                $score += 0;    // Lose
-                if ($exploded[0] == 'A'){
-                    $score += 3;
-                }elseif($exploded[0] == 'B'){
-                    $score += 1;
-                }elseif($exploded[0] == 'C'){
-                    $score += 2;
-                }
-                break;
-            case 'Y':
-                $score += 3;    // Draw
-                if ($exploded[0] == 'A'){
-                    $score += 1;
-                }elseif($exploded[0] == 'B'){
-                    $score += 2;
-                }elseif($exploded[0] == 'C'){
-                    $score += 3;
-                }
-                break;
-            case 'Z':
-                $score += 6;    // Win
-                if ($exploded[0] == 'A'){
-                    $score += 2;
-                }elseif($exploded[0] == 'B'){
-                    $score += 3;
-                }elseif($exploded[0] == 'C'){
-                    $score += 1;
-                }
-                break;
+        switch ($exploded[1].$exploded[0]) {
+            case 'XB': $score += 1; break;
+            case 'XC': $score += 2; break;
+            case 'XA': $score += 3; break;
+            case 'YA': $score += 4; break;
+            case 'YB': $score += 5; break;
+            case 'YC': $score += 6; break;
+            case 'ZC': $score += 7; break;
+            case 'ZA': $score += 8; break;
+            case 'ZB': $score += 9; break;
         }
     }
     echo "final score: ".$score."\n";
