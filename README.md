@@ -4,12 +4,12 @@ I'll be doing most of it in either BASH, Python, PHP or any other programming la
 
 Each day will be listed with the challenge link and my own solution for it.
 
-> Warning: Two challenges are made available each day, they'll be stored as file A and B and the day's directory
+> Warning: Two challenges are made available each day, they'll be stored as file A and B in the day's directory
 
 - Day 01 - [Calorie Counting](https://adventofcode.com/2022/day/1) - [Python](Day01/)
 - Day 02 - [Rock Paper Scissors](https://adventofcode.com/2022/day/2) - [PHP](Day02/)
 - Day 03 - [Rucksack Reorganization](https://adventofcode.com/2022/day/3) - [Bash](Day03/)
-- Day 04 - [](https://adventofcode.com/2022/day/4) - [](Day04/)
+- Day 04 - [Camp Cleanup](https://adventofcode.com/2022/day/4) - [Python](Day04/)
 - Day 05 - [](https://adventofcode.com/2022/day/5) - [](Day05/)
 - Day 06 - [](https://adventofcode.com/2022/day/6) - [](Day06/)
 - Day 07 - [](https://adventofcode.com/2022/day/7) - [](Day07/)
