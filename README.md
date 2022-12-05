@@ -1,6 +1,6 @@
 # Advent of Code 2022
 Repository indexing my participation in the [Advent of Code 2022](https://www.adventofcode.com/2022).
-I'll be doing most of it in either BASH, Python, PHP or any other programming language, depending on everyday's mood.
+I'll be doing most of it in either BASH, Python or PHP, depending on the day's mood.
 
 Each day will be listed with the challenge link and my own solution for it.
 
@@ -10,7 +10,7 @@ Each day will be listed with the challenge link and my own solution for it.
 - Day 02 - [Rock Paper Scissors](https://adventofcode.com/2022/day/2) - [PHP](Day02/)
 - Day 03 - [Rucksack Reorganization](https://adventofcode.com/2022/day/3) - [Bash](Day03/)
 - Day 04 - [Camp Cleanup](https://adventofcode.com/2022/day/4) - [Python](Day04/)
-- Day 05 - [](https://adventofcode.com/2022/day/5) - [](Day05/)
+- Day 05 - [Supply Stacks](https://adventofcode.com/2022/day/5) - [PHP](Day05/)
 - Day 06 - [](https://adventofcode.com/2022/day/6) - [](Day06/)
 - Day 07 - [](https://adventofcode.com/2022/day/7) - [](Day07/)
 - Day 08 - [](https://adventofcode.com/2022/day/8) - [](Day08/)
