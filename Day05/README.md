@@ -1,6 +1,6 @@
 # Day 5: Supply Stacks
 
-## Part One
+### Part One
 
 The expedition can depart as soon as the final supplies have been unloaded from the ships. Supplies are stored in stacks of marked **crates**, but because the needed supplies are buried under many other crates, the crates need to be rearranged.
 
@@ -67,7 +67,7 @@ The Elves just need to know **which crate will end up on top of each stack**; in
 
 **After the rearrangement procedure completes, what crate ends up on top of each stack?**
 
-## Part Two
+### Part Two
 
 As you watch the crane operator expertly rearrange the crates, you notice the process isn't following your prediction.
 

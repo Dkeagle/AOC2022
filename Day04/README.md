@@ -1,6 +1,6 @@
 # Day 4: Camp Cleanup
 
-## Part One
+### Part One
 
 Space needs to be cleared before the last supplies can be unloaded from the ships, and so several Elves have been assigned the job of cleaning up sections of the camp. Every section has a unique **ID number**, and each Elf is assigned a range of section IDs.
 
@@ -49,7 +49,7 @@ Some of the pairs have noticed that one of their assignments **fully contains** 
 
 **In how many assignment pairs does one range fully contain the other?**
 
-## Part Two
+### Part Two
 
 It seems like there is still quite a bit of duplicate work planned. Instead, the Elves would like to know the number of pairs that **overlap at all.**
 
