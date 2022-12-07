@@ -12,7 +12,7 @@ Each day will be listed with the challenge link and my own solution for it.
 - Day 04 - [Camp Cleanup](https://adventofcode.com/2022/day/4) - [Python](Day04/)
 - Day 05 - [Supply Stacks](https://adventofcode.com/2022/day/5) - [PHP](Day05/)
 - Day 06 - [Tuning Trouble](https://adventofcode.com/2022/day/6) - [Bash](Day06/)
-- Day 07 - [](https://adventofcode.com/2022/day/7) - [](Day07/)
+- Day 07 - [No Space Left On Device](https://adventofcode.com/2022/day/7) - [Python](Day07/)
 - Day 08 - [](https://adventofcode.com/2022/day/8) - [](Day08/)
 - Day 09 - [](https://adventofcode.com/2022/day/9) - [](Day09/)
 - Day 10 - [](https://adventofcode.com/2022/day/10) - [](Day10/)
