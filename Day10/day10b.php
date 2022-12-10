@@ -16,13 +16,11 @@
 
         if($line[0] === "addx"){
             $cycle++;
-            
             if(in_array($cycle % 40, $sprite_pos)){
                 array_push($crt, "#");
             }else{
                 array_push($crt, ".");
-            }    
-    
+            }
             $register += $line[1];
             $sprite_pos = [$register, $register + 1, $register + 2];
         }
