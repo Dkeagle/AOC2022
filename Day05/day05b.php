@@ -37,6 +37,9 @@
         $final[$steps[2]] = array_merge($final[$steps[2]], $tmp);
     }
 
+    // Close the file
+    fclose($file);
+
     // Display the last element of each stack, as a string
     $answer = "";
     foreach($final as $stack){

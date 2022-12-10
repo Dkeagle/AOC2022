@@ -16,6 +16,9 @@
         $i++;
     }
 
+    // close the file
+    fclose($file);
+
     // going through the forest to check every tree
     $rows = count($forest);
     $cols = count($forest[0]);

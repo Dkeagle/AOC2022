@@ -28,6 +28,8 @@
         }
     }
 
+    fclose($file);
+
     foreach ($crt as $key => $char) {
         if($key % 40 == 0){ echo "\n"; }
         echo $char;

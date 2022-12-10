@@ -15,12 +15,12 @@
             $register += $line[1];
         }
     }
+
+    fclose($file);
     
     foreach ($strengh as $key => $value) {
         $total += $key * $value;
     }
     
-    print_r($strengh);
     echo $total."\n";
-
 ?>

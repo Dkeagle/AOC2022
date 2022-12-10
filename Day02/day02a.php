@@ -20,5 +20,8 @@
             default: break;
         }
     }
+
+    fclose($file);
+
     echo "final score: ".$score."\n";
 ?>
